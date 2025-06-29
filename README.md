@@ -3,9 +3,9 @@
 Mustang Up
 ---
 
-## 🚩 Description of the Robot
+##  Description of the Robot
 
-Nuestro robot tiene la capacidad de seguir líneas, detectar obstáculos, y rescatar objetos simulando un entorno de desastre. Fue diseñado usando tecnología Arduino y piezas impresas en 3D.
+In the development of the Robot, we began by indentifying the essential components, starting with the base, which served as the main support structure. The robot was then assembled in a horizontal orientation, and we proceeded to search for and install the motors, which were later programmed to ensure proper operation. After programming, we selected the necessary parts to build the wheels. With both the core and the wheels ready, we conducted a team vote to decide between using a block view or a ground view. The block view sensor as ultimately selected. Following that, we went through multiple days of testing and debugging to refine the code. We also added structural supports for the motors and neatly organized the wiring for the sensors, including addtional sensors capable of dectecting neaby walls. Although we encountered several issues throughout the proess, we were able to resolve them, and in the end, the robot met our expectations.
 
 ---
 
@@ -35,7 +35,7 @@ Nuestro robot tiene la capacidad de seguir líneas, detectar obstáculos, y resc
 
 ---
 
-## 👨‍👩‍👧‍👦 Integrantes del equipo
+## Members Team
 
 - Juan Dario Smith
 - Javier Figueria
