@@ -1,66 +1,42 @@
-# Mustang-UP
-# 🤖 Proyecto: Robot Rescatista – Olimpiada de Robótica 2025
+# Robotics Olympiad 2025
 
-Repositorio oficial del equipo [nombre del equipo] para la Olimpiada de Robótica 2025.
-
+Mustang Up
 ---
 
-## 🚩 Descripción del Proyecto
+## 🚩 Description of the Robot
 
 Nuestro robot tiene la capacidad de seguir líneas, detectar obstáculos, y rescatar objetos simulando un entorno de desastre. Fue diseñado usando tecnología Arduino y piezas impresas en 3D.
 
 ---
 
-## ⚙️ Tecnologías usadas
+## Technologies used (Lego Spike)
 
-- **Microcontrolador**: Arduino Uno
-- **Sensores**: IR (seguimiento de línea), Ultrasonido (detección)
-- **Actuadores**: Motores DC con driver L298N
-- **Diseño 3D**: Fusion 360
-- **Lenguaje**: C++ (Arduino IDE)
+- **Sensors**: Distance Sensor, Sensor colour
+- **Sensor movement**: Medium Servo motor
+- **Lenguage**: C++ Word Blocks
 
 ---
 
-## 📂 Estructura del repositorio
+##  Repository Structure
 
-| Carpeta      | Contenido                           |
+| Carpet       | Content                             |
 |--------------|-------------------------------------|
-| `/code`      | Código fuente (Arduino, Python...)  |
-| `/docs`      | Documentación del proyecto          |
-| `/models`    | Archivos STL para impresión 3D      |
-| `/images`    | Fotos del robot, esquemas           |
-| `/videos`    | Demos o enlaces                     |
+| `/V-photos`  | Videos and pictures of the robot    |
+| `/scheme`    | Robot Schematics                    |
+| `/SRC`       | Robot Programming                   |
+| `/T-photos`  | Team members photos                 |
+| `/videos`    | The Vehicle Video                   |
 
 ---
 
-## 🖼️ Imágenes del Proyecto
+## Video Demostration
 
-![Robot armado](images/robot-armado.jpg)
-
----
-
-## 📹 Video de demostración
-
-[👉 Ver video en YouTube](https://youtu.be/coloca-tu-enlace)
+(https://youtu.be/coloca-tu-enlace)
 
 ---
 
 ## 👨‍👩‍👧‍👦 Integrantes del equipo
 
 - Juan Dario Smith
-- María González
-- Luis Pérez
-
----
-
-## 📑 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente mencionando a los autores.
-
----
-
-## 📓 Bitácora del Proyecto
-
-Consulta el archivo `bitacora.md` para ver los avances semanales, pruebas realizadas y mejoras del robot.
-
-
+- Javier Figueria
+- Mariano Pertuz
