@@ -13,7 +13,7 @@ In the development of the Robot, we began by indentifying the essential componen
 
 - **Sensors**: Distance Sensor, Sensor colour
 - **Sensor movement**: Medium Servo motor
-- **Lenguage**: C++ Word Blocks
+- **Lenguage**: Word Blocks
 
 ---
 
